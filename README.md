@@ -12,6 +12,7 @@ This repository contains C++ programs based on the Object-Oriented Programming S
   - Classes and Objects
   - Constructors and Destructors
   - Inheritance (Single, Multilevel, Multiple, etc.)
+  - Polymorphism (function overriding, operator overloading)
 
 ---
 
