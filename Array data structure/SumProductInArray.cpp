@@ -9,7 +9,6 @@ int main()
 
     int arr[] = {4, 2, 7, 8, 1, 2, 5};
     int size = sizeof(arr) / sizeof(int);
-    int sum = 0;
 
     sumArr(arr, size);
     productArr(arr, size);
