@@ -10,12 +10,11 @@ This repository contains C++ programs based on Object-Oriented Programming Syste
 - **Clear Code Structure**: Each program includes inline comments for better understanding.
 - **OOP Concepts**:
   - Classes and Objects
+  - Templates
   - Constructors and Destructors
   - Inheritance (Single, Multilevel, Multiple, etc.)
   - Polymorphism (Function Overriding, Operator Overloading)
    
----
-  
 - **DSA Concepts**:
   - Array data structure  
 
