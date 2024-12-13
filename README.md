@@ -1,25 +1,31 @@
-# C++ OOP Programs Repository
+# C++ OOP and DSA Programs Repository
 
-This repository contains C++ programs based on the Object-Oriented Programming System (OOPS) concepts that I learned in college. Each program is designed to demonstrate specific OOP principles and techniques, such as encapsulation, inheritance, polymorphism, abstraction, and more.
+This repository contains C++ programs based on Object-Oriented Programming System (OOPS) concepts and Data Structures and Algorithms (DSA). The programs are designed to demonstrate specific OOP principles and DSA techniques, helping you build a solid foundation in both areas.
 
 ---
 
 ## Features
 
-- Programs written in **C++**, showcasing various OOP concepts.
-- Clear code structure with inline comments for better understanding.
-- Examples include:
+- **C++ Programs**: Showcasing various OOP concepts and DSA techniques.
+- **Clear Code Structure**: Each program includes inline comments for better understanding.
+- **OOP Concepts**:
   - Classes and Objects
   - Constructors and Destructors
   - Inheritance (Single, Multilevel, Multiple, etc.)
-  - Polymorphism (function overriding, operator overloading)
+  - Polymorphism (Function Overriding, Operator Overloading)
+   
+---
+  
+- **DSA Concepts**:
+  - Array data structure  
 
 ---
 
 ## 🔧 Prerequisites
 
 To run the programs in this repository, you need:
+
 - A C++ compiler (e.g., GCC, MinGW, or Visual Studio).
-- Basic knowledge of C++ programming and OOP principles.
+- Basic knowledge of C++ programming, OOP principles, and DSA techniques.
 
 ---
