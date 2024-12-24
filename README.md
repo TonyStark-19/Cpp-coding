@@ -16,7 +16,8 @@ This repository contains C++ programs based on Object-Oriented Programming Syste
   - Polymorphism (Function Overriding, Operator Overloading)
    
 - **DSA Concepts**:
-  - Array data structure  
+  - Array data structure
+    - Multiple LeetCode problems solved with different approaches 
 
 ---
 
