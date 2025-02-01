@@ -116,6 +116,7 @@ Programs demonstrating **recursive problem-solving techniques**.
 - [ ] **N sum** - sum of n values using recursion
 - [ ] **Palindrome partitioning** - leetcode 131
 - [ ] **Permutations in array** - leetcode 46   
+- [ ] **Quick sort algorithm** - quick sort algorithm implementation
 - [ ] **Rat in a maze** - rat in a maze problem using recursion
 - [ ] **Subsets** - leetcode 78
 - [ ] **Subsets II** - leetcode 90
