@@ -108,6 +108,7 @@ Programs demonstrating **recursive problem-solving techniques**.
 
 - [ ] **Binary search** - leetcode 704
 - [ ] **Combination Sum** - leetcode 39
+- [ ] **Count inversion** - using merge sort algorithm
 - [ ] **Factorial** - factorial using recursion
 - [ ] **Fibonacci** - leetcode 509   
 - [ ] **Is array sorted** - is array sorted or not using recursion
