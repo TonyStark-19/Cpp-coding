@@ -112,6 +112,7 @@ Programs demonstrating **recursive problem-solving techniques**.
 - [ ] **Factorial** - factorial using recursion
 - [ ] **Fibonacci** - leetcode 509   
 - [ ] **Is array sorted** - is array sorted or not using recursion
+- [ ] **Knights tour** - leetcode 2596
 - [ ] **Merge sort algorithm** - merge sort algorithm implementation using recursion
 - [ ] **N queens** - leetcode 51
 - [ ] **N sum** - sum of n values using recursion
