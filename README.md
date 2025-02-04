@@ -103,6 +103,11 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 - [ ] **Sum product in array** - sum and product of an array
 - [ ] **Swap max min in array** - to swap max and min elements of an array
 
+#### 🔹 [Linked-List](./Linked-list/)
+Implementation of Linked list and **solutions to various LeetCode problems with different approaches**.  
+
+- [ ] **Linked-list intro** - program for linked list implementation
+
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
 
