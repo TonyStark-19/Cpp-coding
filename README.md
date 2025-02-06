@@ -107,6 +107,8 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 Implementation of Linked list and **solutions to various LeetCode problems with different approaches**.  
 
 - [ ] **Linked-list intro** - program for linked list implementation
+- [ ] **Reverse Linked-list** - leetcode 206
+- [ ] **Middle of Linked-list** - leetcode 876
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
