@@ -109,6 +109,8 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Linked-list intro** - program for linked list implementation
 - [ ] **Reverse Linked-list** - leetcode 206
 - [ ] **Middle of Linked-list** - leetcode 876
+- [ ] **Linked-list cycle** - leetcode 141
+- [ ] **Linked-list cycle II** - leetcode 142
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
