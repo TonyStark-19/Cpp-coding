@@ -111,6 +111,7 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Middle of Linked-list** - leetcode 876
 - [ ] **Linked-list cycle** - leetcode 141
 - [ ] **Linked-list cycle II** - leetcode 142
+- [ ] **Merge two sorted lists** - leetcode 21
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
