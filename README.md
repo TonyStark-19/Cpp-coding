@@ -114,6 +114,7 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Merge two sorted lists** - leetcode 21
 - [ ] **Copy list with random pointers** - leetcode 138
 - [ ] **Doubly Linked-list** - program for doubly linked list implementation
+- [ ] **Circular Linked-list** - program for circular linked list implementation
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
