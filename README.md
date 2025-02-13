@@ -106,16 +106,17 @@ Implementation of arrays and **solutions to various LeetCode problems with diffe
 #### 🔹 [Linked-List](./Linked-list/)
 Implementation of Linked list and **solutions to various LeetCode problems with different approaches**.  
 
+- [ ] **Circular Linked-list** - program for circular linked list implementation
+- [ ] **Copy list with random pointers** - leetcode 138
+- [ ] **Doubly Linked-list** - program for doubly linked list implementation
+- [ ] **Flatten a Multilevel Doubly Linked List** - leetcode 430
 - [ ] **Linked-list intro** - program for linked list implementation
-- [ ] **Reverse Linked-list** - leetcode 206
-- [ ] **Middle of Linked-list** - leetcode 876
 - [ ] **Linked-list cycle** - leetcode 141
 - [ ] **Linked-list cycle II** - leetcode 142
 - [ ] **Merge two sorted lists** - leetcode 21
-- [ ] **Copy list with random pointers** - leetcode 138
-- [ ] **Doubly Linked-list** - program for doubly linked list implementation
-- [ ] **Circular Linked-list** - program for circular linked list implementation
-- [ ] **Flatten a Multilevel Doubly Linked List** - leetcode 430
+- [ ] **Middle of Linked-list** - leetcode 876
+- [ ] **Reverse Linked-list** - leetcode 206
+- [ ] **Reverse nodes in k group** - leetcode 25
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
