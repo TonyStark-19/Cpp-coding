@@ -117,6 +117,7 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Middle of Linked-list** - leetcode 876
 - [ ] **Reverse Linked-list** - leetcode 206
 - [ ] **Reverse nodes in k group** - leetcode 25
+- [ ] **Swap Nodes in Pairs** - leetcode 24
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
