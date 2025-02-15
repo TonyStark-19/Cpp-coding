@@ -119,6 +119,13 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Reverse nodes in k group** - leetcode 25
 - [ ] **Swap Nodes in Pairs** - leetcode 24
 
+#### 🔹 [Stack](./Stack/)
+Implementation of Stack and **solutions to various LeetCode problems with different approaches**.  
+
+- [ ] **Stack using Linked-list** - stack implementation using linked-list
+- [ ] **Stack using STL** - stack implementation using STL library
+- [ ] **Stack using vectors** - stack implementation using vectors
+
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
 
