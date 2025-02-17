@@ -125,6 +125,7 @@ Implementation of Stack and **solutions to various LeetCode problems with differ
 - [ ] **Stack using Linked-list** - stack implementation using linked-list
 - [ ] **Stack using STL** - stack implementation using STL library
 - [ ] **Stack using vectors** - stack implementation using vectors
+- [ ] **Stock span** - stock span problem
 - [ ] **Valid Parentheses** - leetcode 20
 
 #### 🔹 [Recursion](./Recursion/)  
