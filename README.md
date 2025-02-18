@@ -122,6 +122,8 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 #### 🔹 [Stack](./Stack/)
 Implementation of Stack and **solutions to various LeetCode problems with different approaches**.  
 
+- [ ] **Next greater element** - next greater element problem
+- [ ] **Next greater element I** - leetcode 496
 - [ ] **Stack using Linked-list** - stack implementation using linked-list
 - [ ] **Stack using STL** - stack implementation using STL library
 - [ ] **Stack using vectors** - stack implementation using vectors
