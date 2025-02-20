@@ -122,6 +122,8 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 #### 🔹 [Stack](./Stack/)
 Implementation of Stack and **solutions to various LeetCode problems with different approaches**.  
 
+- [ ] **Design Min Stack** - leetcode 155
+- [ ] **Design Min Stack 2** - leetcode 155 (more optimal)
 - [ ] **Next greater element** - next greater element problem
 - [ ] **Next greater element I** - leetcode 496
 - [ ] **Previous Smaller Element** - previous smaller element problem
