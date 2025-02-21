@@ -124,6 +124,7 @@ Implementation of Stack and **solutions to various LeetCode problems with differ
 
 - [ ] **Design Min Stack** - leetcode 155
 - [ ] **Design Min Stack 2** - leetcode 155 (more optimal)
+- [ ] **Largest Rectangle in Histogram** - leetcode 84
 - [ ] **Next greater element** - next greater element problem
 - [ ] **Next greater element I** - leetcode 496
 - [ ] **Previous Smaller Element** - previous smaller element problem
