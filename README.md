@@ -133,6 +133,8 @@ Implementation of Stack and **solutions to various LeetCode problems with differ
 - [ ] **Stack using STL** - stack implementation using STL library
 - [ ] **Stack using vectors** - stack implementation using vectors
 - [ ] **Stock span** - stock span problem
+- [ ] **Trapping Rain Water** - leetcode 42 (using prefix array)
+- [ ] **Trapping Rain Water 2** - leetcode 42 (using two pointer approach)
 - [ ] **Valid Parentheses** - leetcode 20
 
 #### 🔹 [Recursion](./Recursion/)  
