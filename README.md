@@ -113,6 +113,7 @@ Implementation of Linked list and **solutions to various LeetCode problems with 
 - [ ] **Linked-list intro** - program for linked list implementation
 - [ ] **Linked-list cycle** - leetcode 141
 - [ ] **Linked-list cycle II** - leetcode 142
+- [ ] **LRU Cache** - leetcode 146
 - [ ] **Merge two sorted lists** - leetcode 21
 - [ ] **Middle of Linked-list** - leetcode 876
 - [ ] **Reverse Linked-list** - leetcode 206
