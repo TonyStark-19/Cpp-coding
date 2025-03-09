@@ -140,8 +140,9 @@ Implementation of Stack and **solutions to various LeetCode problems with differ
 - [ ] **Valid Parentheses** - leetcode 20
 
 #### 🔹 [Queue](./Queue/)
-Implementation of Queue and **solutions to various LeetCode problems with different approaches**.  
+Implementation of Queue and **solutions to various LeetCode problems with different approaches**.
 
+- [ ] **Circular queue** - circular queue implementation using array
 - [ ] **Deque** - Double ended queue implementation using STL
 - [ ] **Queue intro** - queue implementation using linked-list
 - [ ] **Queue intro 2** - queue implementation using STL
