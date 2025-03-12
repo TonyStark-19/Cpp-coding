@@ -148,6 +148,7 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 - [ ] **Queue intro 2** - queue implementation using STL
 - [ ] **Queue using stack** - leetcode 232
 - [ ] **Stack using queue** - leetcode 225
+- [ ] **Unique char** - leetcode 387
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
