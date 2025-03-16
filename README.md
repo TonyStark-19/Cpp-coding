@@ -147,6 +147,7 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 - [ ] **Queue intro** - queue implementation using linked-list
 - [ ] **Queue intro 2** - queue implementation using STL
 - [ ] **Queue using stack** - leetcode 232
+- [ ] **Sliding Window Maximum** - leetcode 239
 - [ ] **Stack using queue** - leetcode 225
 - [ ] **Unique char** - leetcode 387
 
