@@ -152,6 +152,11 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 - [ ] **Stack using queue** - leetcode 225
 - [ ] **Unique char** - leetcode 387
 
+#### 🔹 [Tree](./Tree/)
+Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
+
+- [ ] **Binary tree** - binary tree implementation
+
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
 
