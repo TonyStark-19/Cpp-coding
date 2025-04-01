@@ -155,7 +155,7 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 #### 🔹 [Tree](./Tree/)
 Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
 
-- [ ] **Binary tree** - binary tree implementation
+- [ ] **Binary tree** - building binary tree and implementing different tree traversals.
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
