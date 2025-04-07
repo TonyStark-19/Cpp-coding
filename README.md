@@ -156,6 +156,9 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
+- [ ] **Count nodes** - to count number of nodes in a tree
+- [ ] **Height of tree** - to calculate height of tree
+- [ ] **Sum of nodes** - to calulate sum of nodes value of tree
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
