@@ -157,6 +157,8 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
 - [ ] **Count nodes** - to count number of nodes in a tree
+- [ ] **Diameter of Binary Tree** - leetcode 543
+- [ ] **Diameter of Binary Tree 2** - leetcode 543 (more optimal)
 - [ ] **Height of tree** - to calculate height of tree
 - [ ] **Identical tree** - leetcode 100
 - [ ] **Subtree or not** - leetcode 572
