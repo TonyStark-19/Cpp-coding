@@ -156,11 +156,13 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
+- [ ] **Bottom view of binary tree** - to find the tree nodes which are visible from bottom
 - [ ] **Count nodes** - to count number of nodes in a tree
 - [ ] **Diameter of Binary Tree** - leetcode 543
 - [ ] **Diameter of Binary Tree 2** - leetcode 543 (more optimal)
 - [ ] **Height of tree** - to calculate height of tree
 - [ ] **Identical tree** - leetcode 100
+- [ ] **Kth level of tree** - to print nodes of kth level of tree
 - [ ] **Subtree or not** - leetcode 572
 - [ ] **Sum of nodes** - to calulate sum of nodes value of tree
 - [ ] **Top view of binary tree** - to find the tree nodes which are visible from top
