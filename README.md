@@ -168,6 +168,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Subtree or not** - leetcode 572
 - [ ] **Sum of nodes** - to calulate sum of nodes value of tree
 - [ ] **Top view of binary tree** - to find the tree nodes which are visible from top
+- [ ] **Transform to sum tree** - transform binary tree to sum tree
 
 #### 🔹 [Recursion](./Recursion/)  
 Programs demonstrating **recursive problem-solving techniques**.  
