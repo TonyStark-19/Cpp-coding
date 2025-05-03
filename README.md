@@ -156,6 +156,7 @@ Implementation of Queue and **solutions to various LeetCode problems with differ
 Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
 
 - [ ] **Binary tree** - building binary tree and implementing different tree traversals.
+- [ ] **Binary tree path** - leetcode 257
 - [ ] **Bottom view of binary tree** - to find the tree nodes which are visible from bottom
 - [ ] **Build tree** - leetcode 105
 - [ ] **Count nodes** - to count number of nodes in a tree
