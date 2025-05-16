@@ -162,6 +162,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Count nodes** - to count number of nodes in a tree
 - [ ] **Diameter of Binary Tree** - leetcode 543
 - [ ] **Diameter of Binary Tree 2** - leetcode 543 (more optimal)
+- [ ] **Flatten binary tree to linkedlist** - leetcode 114
 - [ ] **Height of tree** - to calculate height of tree
 - [ ] **Identical tree** - leetcode 100
 - [ ] **Kth level of tree** - to print nodes of kth level of tree
