@@ -161,6 +161,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Bottom view of binary tree** - to find the tree nodes which are visible from bottom
 - [ ] **Build tree** - leetcode 105
 - [ ] **Count nodes** - to count number of nodes in a tree
+- [ ] **Delete node in BST** - delete node in binary search tree
 - [ ] **Diameter of Binary Tree** - leetcode 543
 - [ ] **Diameter of Binary Tree 2** - leetcode 543 (more optimal)
 - [ ] **Flatten binary tree to linkedlist** - leetcode 114
@@ -170,6 +171,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Lowest common ancestor in binary tree** - leetcode 236
 - [ ] **Maximum width of binary tree** - leetcode 662
 - [ ] **Morris inorder traversal** - leetcode 94
+- [ ] **Search in BST** - search in binary search tree
 - [ ] **Subtree or not** - leetcode 572
 - [ ] **Sum of nodes** - to calulate sum of nodes value of tree
 - [ ] **Top view of binary tree** - to find the tree nodes which are visible from top
