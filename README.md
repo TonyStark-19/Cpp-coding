@@ -172,6 +172,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Maximum width of binary tree** - leetcode 662
 - [ ] **Morris inorder traversal** - leetcode 94
 - [ ] **Search in BST** - search in binary search tree
+- [ ] **Sorted array to balanced BST** - leetcode 108
 - [ ] **Subtree or not** - leetcode 572
 - [ ] **Sum of nodes** - to calulate sum of nodes value of tree
 - [ ] **Top view of binary tree** - to find the tree nodes which are visible from top
