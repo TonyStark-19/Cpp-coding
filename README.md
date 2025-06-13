@@ -170,6 +170,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Kth level of tree** - to print nodes of kth level of tree
 - [ ] **Lowest common ancestor in binary tree** - leetcode 236
 - [ ] **Maximum width of binary tree** - leetcode 662
+- [ ] **Minimun distance between BST nodes** - leetcode 783
 - [ ] **Morris inorder traversal** - leetcode 94
 - [ ] **Search in BST** - search in binary search tree
 - [ ] **Sorted array to balanced BST** - leetcode 108
