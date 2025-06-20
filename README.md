@@ -170,6 +170,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Kth level of tree** - to print nodes of kth level of tree
 - [ ] **kth smallest in BST** - leetcode 230
 - [ ] **Lowest common ancestor in binary tree** - leetcode 236
+- [ ] **Lowest common ancestor in BST** - leetcode 235
 - [ ] **Maximum width of binary tree** - leetcode 662
 - [ ] **Minimun distance between BST nodes** - leetcode 783
 - [ ] **Morris inorder traversal** - leetcode 94
