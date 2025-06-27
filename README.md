@@ -173,6 +173,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Lowest common ancestor in binary tree** - leetcode 236
 - [ ] **Lowest common ancestor in BST** - leetcode 235
 - [ ] **Maximum width of binary tree** - leetcode 662
+- [ ] **Merge two BST** - merge two binary search tree
 - [ ] **Minimun distance between BST nodes** - leetcode 783
 - [ ] **Morris inorder traversal** - leetcode 94
 - [ ] **Search in BST** - search in binary search tree
