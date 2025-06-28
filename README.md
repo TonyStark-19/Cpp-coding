@@ -176,6 +176,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Merge two BST** - merge two binary search tree
 - [ ] **Minimun distance between BST nodes** - leetcode 783
 - [ ] **Morris inorder traversal** - leetcode 94
+- [ ] **Recover BST** - leetcode 99
 - [ ] **Search in BST** - search in binary search tree
 - [ ] **Sorted array to balanced BST** - leetcode 108
 - [ ] **Subtree or not** - leetcode 572
