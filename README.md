@@ -170,6 +170,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Identical tree** - leetcode 100
 - [ ] **Kth level of tree** - to print nodes of kth level of tree
 - [ ] **kth smallest in BST** - leetcode 230
+- [ ] **Largest BST in binary tree** - to find largest BST in binary tree
 - [ ] **Lowest common ancestor in binary tree** - leetcode 236
 - [ ] **Lowest common ancestor in BST** - leetcode 235
 - [ ] **Maximum width of binary tree** - leetcode 662
