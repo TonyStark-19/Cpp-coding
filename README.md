@@ -160,6 +160,7 @@ Implementation of Tree and **solutions to various LeetCode problems with differe
 - [ ] **Binary tree path** - leetcode 257
 - [ ] **Bottom view of binary tree** - to find the tree nodes which are visible from bottom
 - [ ] **BST from preorder sequence** - leetcode 1008
+- [ ] **BST Iterator** - leetcode 173
 - [ ] **Build tree** - leetcode 105
 - [ ] **Count nodes** - to count number of nodes in a tree
 - [ ] **Delete node in BST** - delete node in binary search tree
