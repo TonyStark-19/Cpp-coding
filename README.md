@@ -1,4 +1,13 @@
-# 🚀 C++ OOP and DSA Programs Repository  
+# 🚀 C++ OOP and DSA Programs Repository 
+
+![Repo Size](https://img.shields.io/github/repo-size/TonyStark-19/Cpp-coding?color=yellow)
+![Stars](https://img.shields.io/github/stars/TonyStark-19/Cpp-coding?color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/TonyStark-19/Cpp-coding?color=brightgreen)
+
+![C++](https://img.shields.io/badge/C++-17/20-blue?logo=cplusplus&logoColor=white)
+![GCC](https://img.shields.io/badge/Compiler-GCC-darkgreen?logo=gnu)
+![MinGW](https://img.shields.io/badge/Compiler-MinGW-yellow?logo=windows)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)
 
 This repository contains a collection of **C++ programs** covering **Object-Oriented Programming (OOP)** concepts and **Data Structures & Algorithms (DSA)**. Each program demonstrates specific principles, helping you build a strong foundation in **C++ programming**. It’s designed to help you master C++ through hands-on coding.
 
@@ -9,6 +18,13 @@ This repository contains a collection of **C++ programs** covering **Object-Orie
 This repository is organized into multiple folders, each containing various programs related to **OOP** and **DSA**.  
 
 ### 🏗 Object-Oriented Programming (OOP) Concepts  
+
+![OOP](https://img.shields.io/badge/Concepts-OOP-blueviolet)
+![Classes](https://img.shields.io/badge/OOP-Classes-red)
+![Inheritance](https://img.shields.io/badge/OOP-Inheritance-orange)
+![Polymorphism](https://img.shields.io/badge/OOP-Polymorphism-green)
+![Encapsulation](https://img.shields.io/badge/OOP-Encapsulation-teal)
+![Abstraction](https://img.shields.io/badge/OOP-Abstraction-lightblue)
 
 #### 🔹 [Class-Programs](./Class-Programs/)  
 Programs demonstrating **class structure, object creation, templates and much more**.  
@@ -51,6 +67,16 @@ Examples of **function overloading, operator overloading, and runtime polymorphi
 ---
 
 ### 📊 Data Structures & Algorithms (DSA)  
+
+![Arrays](https://img.shields.io/badge/DSA-Arrays-blue)
+![Linked List](https://img.shields.io/badge/DSA-Linked%20List-darkred)
+![Stack](https://img.shields.io/badge/DSA-Stack-orange)
+![Queue](https://img.shields.io/badge/DSA-Queue-yellow)
+![Binary Tree](https://img.shields.io/badge/DSA-Binary%20Tree-green)
+![BST](https://img.shields.io/badge/DSA-BST-darkgreen)
+![Recursion](https://img.shields.io/badge/DSA-Recursion-purple)
+![Sorting](https://img.shields.io/badge/DSA-Sorting-lightgrey)
+![Searching](https://img.shields.io/badge/DSA-Searching-brown)
 
 #### 🔹 [Array Data Structure](./Array%20data%20structure/)  
 Implementation of arrays and **solutions to various LeetCode problems with different approaches**.  
@@ -254,3 +280,8 @@ To run the programs in this repository, you need:
 - Basic knowledge of C++ programming, OOP principles, and DSA techniques.
 
 ---
+
+## ⭐ Support
+
+If you find this repository useful: <br />
+👉 Star the repo to support the project!
