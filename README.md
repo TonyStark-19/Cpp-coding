@@ -8,8 +8,21 @@
 ![GCC](https://img.shields.io/badge/Compiler-GCC-darkgreen?logo=gnu)
 ![MinGW](https://img.shields.io/badge/Compiler-MinGW-yellow?logo=windows)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)
+![Programs](https://img.shields.io/badge/Total%20Programs-178-success?style=flat-square)
 
 This repository contains a collection of **C++ programs** covering **Object-Oriented Programming (OOP)** concepts and **Data Structures & Algorithms (DSA)**. Each program demonstrates specific principles, helping you build a strong foundation in **C++ programming**. It’s designed to help you master C++ through hands-on coding.
+
+---
+
+## 📊 Repository Statistics  
+
+| Category | Total |
+|--------|-------|
+| 🏗 OOP Programs | 22 |
+| 📊 DSA Programs | 156 |
+| 🚀 **Total Programs** | **178** |
+
+This repository is continuously expanding as new concepts and problems are added.
 
 ---
 
@@ -26,43 +39,63 @@ This repository is organized into multiple folders, each containing various prog
 ![Encapsulation](https://img.shields.io/badge/OOP-Encapsulation-teal)
 ![Abstraction](https://img.shields.io/badge/OOP-Abstraction-lightblue)
 
+---
+
 #### 🔹 [Class-Programs](./Class-Programs/)  
-Programs demonstrating **class structure, object creation, templates and much more**.  
 
-- [ ] **Class program** - simple class program  
-- [ ] **Destructor** - destructor program  
-- [ ] **Parametrized constructor** - a type of constructor
-- [ ] **Shallow vs Deep copy** - to understand how shallow and deep copy works
-- [ ] **Static data member** - to understand usage of static data member
-- [ ] **Student marksheet** - student marksheet program using class
-- [ ] **Templates** - to understand usage of templates in c++
+> Programs demonstrating **class structure, object creation, templates and much more**.  
 
-#### 🔹 [Functions](./Functions/)  
-Programs related to **Static member, friend, and inline functions**.  
+| No. | Project                      | Description                                                    |
+| --- | ---------------------------- | -------------------------------------------------------------- |
+| 1   | **Class program**            | Simple program to understand class and object basics           |
+| 2   | **Parametrized constructor** | Demonstrates constructor with parameters                       |
+| 3   | **Destructor**               | Program to understand object destruction and cleanup           |
+| 4   | **Static data member**       | Understand shared data members across class objects            |
+| 5   | **Student marksheet**        | Student marksheet program implemented using class              |
+| 6   | **Shallow vs Deep copy**     | Understand difference between shallow and deep copy mechanisms |
+| 7   | **Templates**                | Understand generic programming using templates in C++          |
 
-- [ ] **Friend function** - to understand usage of friend function
-- [ ] **Inline function** - to understand usage of inline function  
-- [ ] **Static member function** - to understand usage of static memeber function
+---
+
+#### 🔹 [Functions](./Functions/) 
+
+> Programs related to **Static member, friend, and inline functions**.  
+
+| No. | Project                    | Description                                                   |
+| --- | -------------------------- | ------------------------------------------------------------- |
+| 1   | **Inline function**        | Understand usage and performance benefits of inline functions |
+| 2   | **Friend function**        | Understand how friend functions access private class members  |
+| 3   | **Static member function** | Understand usage of static member functions in a class        |
+
+---
 
 #### 🔹 [Inheritance](./Inheritence/)  
-Covers **single, multilevel, multiple, hierarchical and hybrid inheritance**.  
 
-- [ ] **Hierarchical inheritance** - to understand hierarchical inheritance  
-- [ ] **Hybrid Inheritance** - to understand hybrid Inheritance
-- [ ] **Multilevel inheritance** - to understand multilevel inheritance
-- [ ] **Multilevel inheritance 2** - another program using multilevel inheritance
-- [ ] **Multiple inheritance** - to understand multiple inheritance
-- [ ] **Single inheritance** - to understand single inheritance
+> Covers **single, multilevel, multiple, hierarchical and hybrid inheritance**.  
+
+| No. | Project                      | Description                                                  |
+| --- | ---------------------------- | ------------------------------------------------------------ |
+| 1   | **Single inheritance**       | Understand inheritance with one base and one derived class   |
+| 2   | **Multilevel inheritance**   | Understand inheritance across multiple class levels          |
+| 3   | **Multilevel inheritance 2** | Another implementation of multilevel inheritance             |
+| 4   | **Hierarchical inheritance** | Understand multiple derived classes from a single base class |
+| 5   | **Multiple inheritance**     | Understand inheritance from multiple base classes            |
+| 6   | **Hybrid inheritance**       | Understand combination of multiple inheritance types         |
+
+---
 
 #### 🔹 [Polymorphism](./Polymorphism/)  
-Examples of **function overloading, operator overloading, and runtime polymorphism**.  
 
-- [ ] **Function overriding** - to understand the concept of function overriding
-- [ ] **Operator overloading** - Binary Minus (-) Operator
-- [ ] **Operator overloading** - Binary Plus (+) Operator    
-- [ ] **Operator overloading** - Equality (==) Operator
-- [ ] **Operator overloading** - Increment (++) Operator
-- [ ] **Runtime polymorphism** - to understand usage of virtual functions
+> Examples of **function overloading, operator overloading, and runtime polymorphism**.  
+
+| No. | Project                                     | Description                                                  |
+| --- | ------------------------------------------- | ------------------------------------------------------------ |
+| 1   | **Function overriding**                     | Understand the concept of function overriding in inheritance |
+| 2   | **Runtime polymorphism**                    | Understand runtime polymorphism using virtual functions      |
+| 3   | **Operator overloading – Binary Plus (+)**  | Overload binary plus operator for custom object addition     |
+| 4   | **Operator overloading – Binary Minus (-)** | Overload binary minus operator for custom object subtraction |
+| 5   | **Operator overloading – Increment (++)**   | Overload increment operator (pre/post increment)             |
+| 6   | **Operator overloading – Equality (==)**    | Overload equality operator for object comparison             |
 
 ---
 
@@ -78,197 +111,235 @@ Examples of **function overloading, operator overloading, and runtime polymorphi
 ![Sorting](https://img.shields.io/badge/DSA-Sorting-lightgrey)
 ![Searching](https://img.shields.io/badge/DSA-Searching-brown)
 
-#### 🔹 [Array Data Structure](./Array%20data%20structure/)  
-Implementation of arrays and **solutions to various LeetCode problems with different approaches**.  
+---
 
-- [ ] **2Sum** - leetcode 1
-- [ ] **3Sum** - leetcode 15 (using hashing)
-- [ ] **3Sum 2** - leetcode 15 (using two pointer approach)
-- [ ] **4Sum** - leetcode 18
-- [ ] **Aggresive cows** - using binary search approach
-- [ ] **Binary search** - using iterative method
-- [ ] **Binary search 2** - using recursive method
-- [ ] **Binary search 3** - leetcode 33
-- [ ] **Book allocation** - using binary search approach
-- [ ] **Bubble sort** - bubble sort algorithm
-- [ ] **Buy and sell** - leetcode 121
-- [ ] **Container with most water** - leetcode 21 (brute force)
-- [ ] **Container with most water 2** - leetcode 21 (using two pointer approach)
-- [ ] **Diagonal sum in matrix** - leetcode 1572
-- [ ] **Find duplicate** - leetcode 287
-- [ ] **Find missing and repeating value** - leetcode 2965
-- [ ] **Insertion sort** - insertion sort algorithm
-- [ ] **Linear search** - linear search algorithm
-- [ ] **Linear search in matrix** - linear search in matrix
-- [ ] **Majority element** - leetcode 169 (brute force)
-- [ ] **Majority element 2** - leetcode 169 (moore's voting algorithm)
-- [ ] **Maximum row and column sum** - Maximum row and column sum problem
-- [ ] **Maximum subarray sum** - leetcode 53 (brute force)
-- [ ] **Maximum subarray sum 2** - leetcode 53 (Kadane's algorithm)
-- [ ] **Merge sorted arrays** - leetcode 88
-- [ ] **Next permutation** - leetcode 31
-- [ ] **Painter's partition** - using binary search approach
-- [ ] **Pair sum** - binary search approach
-- [ ] **Pair sum 2** - two pointer approach
-- [ ] **Peak index** - leetcode 852 (brute force)
-- [ ] **Peak index 2** - leetcode 852 (optimized)
-- [ ] **Power function** - leetcode 50
-- [ ] **Product of array** - leetcode 238 (brute force)
-- [ ] **Product of array 2** - leetcode 238 (optimized)
-- [ ] **Reverse array** - to reverse an array
-- [ ] **Search in 2d matrix** - leetcode 74
-- [ ] **Search in 2d matrix II** - leetcode 240
-- [ ] **Selection sort** - selection sort algorithm
-- [ ] **Single element** - leetcode 540 (brute force)
-- [ ] **Single element 2** - leetcode 540 (binary search)
-- [ ] **Small and large in array** - Small and large element in array
-- [ ] **Sort colors** - leetcode 75 (optimized)
-- [ ] **Sort colors** - leetcode 75 (Dutch national flag algortihm)
-- [ ] **Spiral matrix** - leetcode 54
-- [ ] **Subarray sum equal k** - leetcode 560
-- [ ] **Sum product in array** - sum and product of an array
-- [ ] **Swap max min in array** - to swap max and min elements of an array
+#### 🔹 [Array Data Structure](./Array%20data%20structure/)  
+
+> Implementation of arrays and **solutions to various LeetCode problems with different approaches**.  
+
+| No. | Project                                     | Description                                             |
+| --- | ------------------------------------------- | ------------------------------------------------------- |
+| 1   | **Linear search**                           | Linear search algorithm                                 |
+| 2   | **Linear search in matrix**                 | Perform linear search in a 2D matrix                    |
+| 3   | **Binary search (iterative)**               | Binary search using iterative method                    |
+| 4   | **Binary search (recursive)**               | Binary search using recursive method                    |
+| 5   | **Binary search 3**                         | Search in rotated sorted array (LeetCode 33)            |
+| 6   | **Reverse array**                           | Reverse elements of an array                            |
+| 7   | **Small and large in array**                | Find smallest and largest elements in an array          |
+| 8   | **Swap max min in array**                   | Swap maximum and minimum elements in an array           |
+| 9   | **Sum product in array**                    | Calculate sum and product of array elements             |
+| 10  | **Bubble sort**                             | Bubble sort algorithm                                   |
+| 11  | **Selection sort**                          | Selection sort algorithm                                |
+| 12  | **Insertion sort**                          | Insertion sort algorithm                                |
+| 13  | **Maximum row and column sum**              | Find maximum row and column sum in a matrix             |
+| 14  | **Diagonal sum in matrix**                  | Calculate diagonal sum of a matrix (LeetCode 1572)      |
+| 15  | **Merge sorted arrays**                     | Merge two sorted arrays (LeetCode 88)                   |
+| 16  | **2Sum**                                    | Find two numbers that sum to target (LeetCode 1)        |
+| 17  | **Pair sum (binary search)**                | Pair sum using binary search approach                   |
+| 18  | **Pair sum 2 (two pointers)**               | Pair sum using two-pointer technique                    |
+| 19  | **3Sum (hashing)**                          | Find triplets using hashing (LeetCode 15)               |
+| 20  | **3Sum (two pointers)**                     | Optimized two-pointer solution for 3Sum                 |
+| 21  | **4Sum**                                    | Find quadruplets that sum to target (LeetCode 18)       |
+| 22  | **Container with most water (brute)**       | Brute force solution (LeetCode 11)                      |
+| 23  | **Container with most water (two pointer)** | Optimized two-pointer approach                          |
+| 24  | **Buy and sell stock**                      | Max profit from stock prices (LeetCode 121)             |
+| 25  | **Maximum subarray sum (brute)**            | Brute force approach (LeetCode 53)                      |
+| 26  | **Maximum subarray sum (Kadane)**           | Optimized Kadane’s algorithm                            |
+| 27  | **Majority element (brute)**                | Brute force approach (LeetCode 169)                     |
+| 28  | **Majority element (Moore’s voting)**       | Optimized Moore’s Voting Algorithm                      |
+| 29  | **Product of array (brute)**                | Product of array except self (brute force)              |
+| 30  | **Product of array (optimized)**            | Optimized prefix–suffix method (LeetCode 238)           |
+| 31  | **Find duplicate**                          | Find duplicate number (LeetCode 287)                    |
+| 32  | **Find missing and repeating value**        | Find missing and repeating elements (LeetCode 2965)     |
+| 33  | **Peak index (brute)**                      | Brute force peak index in mountain array (LeetCode 852) |
+| 34  | **Peak index (optimized)**                  | Binary search optimized solution                        |
+| 35  | **Single element (brute)**                  | Find single element in sorted array                     |
+| 36  | **Single element (binary search)**          | Optimized binary search approach (LeetCode 540)         |
+| 37  | **Search in 2D matrix**                     | Binary search in matrix (LeetCode 74)                   |
+| 38  | **Search in 2D matrix II**                  | Optimized matrix search (LeetCode 240)                  |
+| 39  | **Spiral matrix**                           | Print matrix in spiral order (LeetCode 54)              |
+| 40  | **Sort colors (optimized)**                 | Optimized sorting approach (LeetCode 75)                |
+| 41  | **Sort colors (Dutch national flag)**       | Dutch National Flag algorithm                           |
+| 42  | **Next permutation**                        | Generate next permutation (LeetCode 31)                 |
+| 43  | **Power function**                          | Implement power function efficiently (LeetCode 50)      |
+| 44  | **Subarray sum equal K**                    | Count subarrays with sum K (LeetCode 560)               |
+| 45  | **Aggressive cows**                         | Binary search on answer problem                         |
+| 46  | **Book allocation**                         | Allocate books using binary search approach             |
+| 47  | **Painter’s partition**                     | Painter’s partition using binary search                 |
+
+---
 
 #### 🔹 [Linked-List](./Linked-list/)
-Implementation of Linked list and **solutions to various LeetCode problems with different approaches**.  
 
-- [ ] **Circular Linked-list** - program for circular linked list implementation
-- [ ] **Copy list with random pointers** - leetcode 138
-- [ ] **Doubly Linked-list** - program for doubly linked list implementation
-- [ ] **Flatten a Multilevel Doubly Linked List** - leetcode 430
-- [ ] **Linked-list intro** - program for linked list implementation
-- [ ] **Linked-list cycle** - leetcode 141
-- [ ] **Linked-list cycle II** - leetcode 142
-- [ ] **LRU Cache** - leetcode 146
-- [ ] **Merge two sorted lists** - leetcode 21
-- [ ] **Middle of Linked-list** - leetcode 876
-- [ ] **Reverse Linked-list** - leetcode 206
-- [ ] **Reverse nodes in k group** - leetcode 25
-- [ ] **Swap Nodes in Pairs** - leetcode 24
+> Implementation of Linked list and **solutions to various LeetCode problems with different approaches**.  
+
+| No. | Project                                     | Description                                                               |
+| --- | ------------------------------------------- | ------------------------------------------------------------------------- |
+| 1   | **Linked-list intro**                       | Basic linked list implementation and operations                           |
+| 2   | **Doubly Linked-list**                      | Implementation of doubly linked list                                      |
+| 3   | **Circular Linked-list**                    | Implementation of circular linked list                                    |
+| 4   | **Merge two sorted lists**                  | Merge two sorted linked lists (LeetCode 21)                               |
+| 5   | **Middle of Linked-list**                   | Find the middle node of a linked list (LeetCode 876)                      |
+| 6   | **Reverse Linked-list**                     | Reverse a linked list (LeetCode 206)                                      |
+| 7   | **Swap Nodes in Pairs**                     | Swap adjacent nodes in pairs (LeetCode 24)                                |
+| 8   | **Reverse nodes in k group**                | Reverse nodes in groups of k (LeetCode 25)                                |
+| 9   | **Linked-list cycle**                       | Detect cycle in linked list (LeetCode 141)                                |
+| 10  | **Linked-list cycle II**                    | Find starting node of cycle (LeetCode 142)                                |
+| 11  | **Copy list with random pointers**          | Deep copy of linked list with random pointer (LeetCode 138)               |
+| 12  | **Flatten a Multilevel Doubly Linked List** | Flatten multilevel doubly linked list (LeetCode 430)                      |
+| 13  | **LRU Cache**                               | Design and implement LRU Cache using linked list + hashmap (LeetCode 146) |
+
+---
 
 #### 🔹 [Stack](./Stack/)
-Implementation of Stack and **solutions to various LeetCode problems with different approaches**.  
 
-- [ ] **Celebrity Problem** - the celebrity problem
-- [ ] **Design Min Stack** - leetcode 155
-- [ ] **Design Min Stack 2** - leetcode 155 (more optimal)
-- [ ] **Largest Rectangle in Histogram** - leetcode 84
-- [ ] **Next greater element** - next greater element problem
-- [ ] **Next greater element I** - leetcode 496
-- [ ] **Next greater element II** - leetcode 503
-- [ ] **Previous Smaller Element** - previous smaller element problem
-- [ ] **Stack using Linked-list** - stack implementation using linked-list
-- [ ] **Stack using STL** - stack implementation using STL library
-- [ ] **Stack using vectors** - stack implementation using vectors
-- [ ] **Stock span** - stock span problem
-- [ ] **Trapping Rain Water** - leetcode 42 (using prefix array)
-- [ ] **Trapping Rain Water 2** - leetcode 42 (using two pointer approach)
-- [ ] **Valid Parentheses** - leetcode 20
+> Implementation of Stack and **solutions to various LeetCode problems with different approaches**.  
+
+| No. | Project                                | Description                                                  |
+| --- | -------------------------------------- | ------------------------------------------------------------ |
+| 1   | **Stack using STL**                    | Stack implementation using STL library                       |
+| 2   | **Stack using vectors**                | Stack implementation using vectors                           |
+| 3   | **Stack using Linked-list**            | Stack implementation using linked list                       |
+| 4   | **Valid Parentheses**                  | Check valid parentheses using stack (LeetCode 20)            |
+| 5   | **Design Min Stack**                   | Min Stack implementation (LeetCode 155)                      |
+| 6   | **Design Min Stack 2**                 | Optimized Min Stack implementation                           |
+| 7   | **Celebrity Problem**                  | Solve celebrity problem using stack                          |
+| 8   | **Next greater element**               | Find next greater element using stack                        |
+| 9   | **Next greater element I**             | Next greater element (LeetCode 496)                          |
+| 10  | **Next greater element II**            | Circular next greater element (LeetCode 503)                 |
+| 11  | **Previous Smaller Element**           | Find previous smaller element using stack                    |
+| 12  | **Stock span**                         | Calculate stock span using stack                             |
+| 13  | **Largest Rectangle in Histogram**     | Find largest rectangle area (LeetCode 84)                    |
+| 14  | **Trapping Rain Water (prefix array)** | Trapping rain water using prefix/suffix arrays (LeetCode 42) |
+| 15  | **Trapping Rain Water (two pointers)** | Optimized two-pointer solution for trapping rain water       |
+
+---
 
 #### 🔹 [Queue](./Queue/)
-Implementation of Queue and **solutions to various LeetCode problems with different approaches**.
 
-- [ ] **Circular queue** - circular queue implementation using array
-- [ ] **Deque** - Double ended queue implementation using STL
-- [ ] **Gas station** - leetcode 134
-- [ ] **Queue intro** - queue implementation using linked-list
-- [ ] **Queue intro 2** - queue implementation using STL
-- [ ] **Queue using stack** - leetcode 232
-- [ ] **Sliding Window Maximum** - leetcode 239
-- [ ] **Stack using queue** - leetcode 225
-- [ ] **Unique char** - leetcode 387
+> Implementation of Queue and **solutions to various LeetCode problems with different approaches**.
+
+| No. | Project                    | Description                                                   |
+| --- | -------------------------- | ------------------------------------------------------------- |
+| 1   | **Queue intro**            | Queue implementation using linked list                        |
+| 2   | **Queue intro 2**          | Queue implementation using STL                                |
+| 3   | **Circular queue**         | Circular queue implementation using array                     |
+| 4   | **Deque**                  | Double-ended queue implementation using STL                   |
+| 5   | **Stack using queue**      | Implement stack using queue (LeetCode 225)                    |
+| 6   | **Queue using stack**      | Implement queue using stack (LeetCode 232)                    |
+| 7   | **Unique char**            | First unique character in a string using queue (LeetCode 387) |
+| 8   | **Gas station**            | Gas station problem using queue/greedy (LeetCode 134)         |
+| 9   | **Sliding Window Maximum** | Find maximum in sliding window using deque (LeetCode 239)     |
+
+---
 
 #### 🔹 [Tree](./Tree/)
-Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
 
-- [ ] **Binary search tree** - implement binary search tree
-- [ ] **Binary tree** - building binary tree and implementing different tree traversals.
-- [ ] **Binary tree path** - leetcode 257
-- [ ] **Bottom view of binary tree** - to find the tree nodes which are visible from bottom
-- [ ] **BST from preorder sequence** - leetcode 1008
-- [ ] **BST Iterator** - leetcode 173
-- [ ] **Build tree** - leetcode 105
-- [ ] **Count nodes** - to count number of nodes in a tree
-- [ ] **Delete node in BST** - delete node in binary search tree
-- [ ] **Diameter of Binary Tree** - leetcode 543
-- [ ] **Diameter of Binary Tree 2** - leetcode 543 (more optimal)
-- [ ] **Flatten binary tree to linkedlist** - leetcode 114
-- [ ] **Height of tree** - to calculate height of tree
-- [ ] **Identical tree** - leetcode 100
-- [ ] **InorderPreAndSucc** - Inorder Predecessor & Successor in BST
-- [ ] **Kth level of tree** - to print nodes of kth level of tree
-- [ ] **kth smallest in BST** - leetcode 230
-- [ ] **Largest BST in binary tree** - to find largest BST in binary tree
-- [ ] **Lowest common ancestor in binary tree** - leetcode 236
-- [ ] **Lowest common ancestor in BST** - leetcode 235
-- [ ] **Maximum width of binary tree** - leetcode 662
-- [ ] **Merge two BST** - merge two binary search tree
-- [ ] **Minimun distance between BST nodes** - leetcode 783
-- [ ] **Morris inorder traversal** - leetcode 94
-- [ ] **Populate next right pointers** - leetcode 116
-- [ ] **Recover BST** - leetcode 99
-- [ ] **Search in BST** - search in binary search tree
-- [ ] **Sorted array to balanced BST** - leetcode 108
-- [ ] **Subtree or not** - leetcode 572
-- [ ] **Sum of nodes** - to calulate sum of nodes value of tree
-- [ ] **Top view of binary tree** - to find the tree nodes which are visible from top
-- [ ] **Transform to sum tree** - transform binary tree to sum tree
-- [ ] **Validate binary search tree** - leetcode 98
+> Implementation of Tree and **solutions to various LeetCode problems with different approaches**.
+
+| No. | Project                                  | Description                                                 |
+| --- | ---------------------------------------- | ----------------------------------------------------------- |
+| 1   | **Binary tree**                          | Build a binary tree and implement traversals                |
+| 2   | **Binary search tree**                   | Implement a binary search tree (BST)                        |
+| 3   | **Height of tree**                       | Calculate height of a binary tree                           |
+| 4   | **Count nodes**                          | Count number of nodes in a tree                             |
+| 5   | **Sum of nodes**                         | Calculate sum of all node values in a tree                  |
+| 6   | **Kth level of tree**                    | Print nodes at the kth level of a binary tree               |
+| 7   | **Identical tree**                       | Check if two trees are identical (LeetCode 100)             |
+| 8   | **Binary tree path**                     | Print all root-to-leaf paths (LeetCode 257)                 |
+| 9   | **Subtree or not**                       | Check if a tree is subtree of another (LeetCode 572)        |
+| 10  | **Diameter of Binary Tree**              | Diameter calculation (LeetCode 543 – basic)                 |
+| 11  | **Diameter of Binary Tree 2**            | Optimized diameter calculation                              |
+| 12  | **Maximum width of binary tree**         | Find maximum width of tree (LeetCode 662)                   |
+| 13  | **Lowest common ancestor (Binary Tree)** | Find LCA in binary tree (LeetCode 236)                      |
+| 14  | **Transform to sum tree**                | Convert binary tree into sum tree                           |
+| 15  | **Flatten binary tree to linked list**   | Flatten tree to linked list (LeetCode 114)                  |
+| 16  | **Top view of binary tree**              | Nodes visible from top view                                 |
+| 17  | **Bottom view of binary tree**           | Nodes visible from bottom view                              |
+| 18  | **Populate next right pointers**         | Populate next pointers (LeetCode 116)                       |
+| 19  | **Build tree**                           | Build tree from preorder & inorder traversal (LeetCode 105) |
+| 20  | **Morris inorder traversal**             | Inorder traversal without recursion/stack (LeetCode 94)     |
+| 21  | **Largest BST in binary tree**           | Find largest BST inside a binary tree                       |
+| 22  | **Search in BST**                        | Search element in BST                                       |
+| 23  | **Validate binary search tree**          | Validate BST properties (LeetCode 98)                       |
+| 24  | **Inorder Predecessor & Successor**      | Find inorder predecessor & successor in BST                 |
+| 25  | **Lowest common ancestor (BST)**         | Find LCA in BST (LeetCode 235)                              |
+| 26  | **Minimum distance between BST nodes**   | Find minimum difference (LeetCode 783)                      |
+| 27  | **Kth smallest in BST**                  | Find kth smallest element (LeetCode 230)                    |
+| 28  | **BST Iterator**                         | Implement BST iterator (LeetCode 173)                       |
+| 29  | **Delete node in BST**                   | Delete node from BST                                        |
+| 30  | **Recover BST**                          | Recover swapped nodes in BST (LeetCode 99)                  |
+| 31  | **BST from preorder sequence**           | Construct BST from preorder (LeetCode 1008)                 |
+| 32  | **Sorted array to balanced BST**         | Convert sorted array to BST (LeetCode 108)                  |
+| 33  | **Merge two BST**                        | Merge two binary search trees                               |
+
+---
 
 #### 🔹 [Recursion](./Recursion/)  
-Programs demonstrating **recursive problem-solving techniques**.  
 
-- [ ] **Binary search** - leetcode 704
-- [ ] **Combination Sum** - leetcode 39
-- [ ] **Count inversion** - using merge sort algorithm
-- [ ] **Factorial** - factorial using recursion
-- [ ] **Fibonacci** - leetcode 509   
-- [ ] **Is array sorted** - is array sorted or not using recursion
-- [ ] **Knights tour** - leetcode 2596
-- [ ] **Merge sort algorithm** - merge sort algorithm implementation using recursion
-- [ ] **N queens** - leetcode 51
-- [ ] **N sum** - sum of n values using recursion
-- [ ] **Palindrome partitioning** - leetcode 131
-- [ ] **Permutations in array** - leetcode 46   
-- [ ] **Quick sort algorithm** - quick sort algorithm implementation
-- [ ] **Rat in a maze** - rat in a maze problem using recursion
-- [ ] **Subsets** - leetcode 78
-- [ ] **Subsets II** - leetcode 90
-- [ ] **Sudoku solver** - leetcode 37
+> Programs demonstrating **recursive problem-solving techniques**.  
+
+| No. | Project                     | Description                                              |
+| --- | --------------------------- | -------------------------------------------------------- |
+| 1   | **Factorial**               | Calculate factorial using recursion                      |
+| 2   | **Fibonacci**               | Generate Fibonacci numbers (LeetCode 509)                |
+| 3   | **N sum**                   | Calculate sum of N numbers using recursion               |
+| 4   | **Is array sorted**         | Check if an array is sorted using recursion              |
+| 5   | **Binary search**           | Binary search using recursion (LeetCode 704)             |
+| 6   | **Merge sort algorithm**    | Merge sort implementation using recursion                |
+| 7   | **Quick sort algorithm**    | Quick sort implementation using recursion                |
+| 8   | **Count inversion**         | Count inversions using merge sort technique              |
+| 9   | **Subsets**                 | Generate all subsets (LeetCode 78)                       |
+| 10  | **Subsets II**              | Generate unique subsets with duplicates (LeetCode 90)    |
+| 11  | **Permutations in array**   | Generate all permutations (LeetCode 46)                  |
+| 12  | **Combination Sum**         | Find combinations summing to target (LeetCode 39)        |
+| 13  | **Palindrome partitioning** | Partition string into palindromes (LeetCode 131)         |
+| 14  | **Rat in a maze**           | Find paths using backtracking                            |
+| 15  | **N queens**                | Place N queens on chessboard (LeetCode 51)               |
+| 16  | **Sudoku solver**           | Solve Sudoku using backtracking (LeetCode 37)            |
+| 17  | **Knights tour**            | Knight’s tour problem using backtracking (LeetCode 2596) |
+
+---
 
 #### 🔹 [Patterns](./Patterns/)  
-A collection of **pattern-printing programs using loops**.  
 
-- [ ] **Butterfly pattern**  
-- [ ] **Floyd triangle pattern**
-- [ ] **Hollow diamond pattern**  
-- [ ] **Inverted triangle pattern**  
-- [ ] **Pyramid pattern**
-- [ ] **Reverse triangle pattern**
-- [ ] **Square pattern**
-- [ ] **Square pattern 2**
-- [ ] **Triangle pattern**
-- [ ] **Triangle pattern 2**
+> A collection of **pattern-printing programs using loops**.  
+
+| No. | Project                       | Description                           |
+| --- | ----------------------------- | ------------------------------------- |
+| 1   | **Square pattern**            | Print a basic square pattern          |
+| 2   | **Square pattern 2**          | Another variation of square pattern   |
+| 3   | **Triangle pattern**          | Print a basic right-angled triangle   |
+| 4   | **Triangle pattern 2**        | Another variation of triangle pattern |
+| 5   | **Reverse triangle pattern**  | Print a reversed triangle pattern     |
+| 6   | **Inverted triangle pattern** | Print an inverted triangle pattern    |
+| 7   | **Pyramid pattern**           | Print a centered pyramid pattern      |
+| 8   | **Floyd triangle pattern**    | Print Floyd’s triangle                |
+| 9   | **Butterfly pattern**         | Print butterfly-shaped pattern        |
+| 10  | **Hollow diamond pattern**    | Print hollow diamond-shaped pattern   |
 
 ---
 
 ### 📁 Additional Sections  
 
 #### 🔹 [Cpp Programs](./Cpp%20programs/)  
-General **C++ programs** that don't fit into the above categories.  
 
-- [ ] **Count primes** - to count all prime numbers in a range  
-- [ ] **GCD** - gcd program using Euclid's Algorithm  
-- [ ] **Palindrome number** - leetcode 9
-- [ ] **Permutation in a string** - leetcode 567
-- [ ] **Read and Write in a file** - to read and write in file using file handling
-- [ ] **Remove all occurrences** - leetcode 1910
-- [ ] **Reverse integer** - leetcode 7
-- [ ] **Reverse string** - leetcode 344
-- [ ] **Reverse string 2** - to reverse a string directly using reverse function
-- [ ] **Reverse words in a string** - leetcode 151
-- [ ] **String compression** - leetcode 443
-- [ ] **Valid palindrome** - leetcode 125
+> General **C++ programs** that don't fit into the above categories.  
+
+| No. | Project                       | Description                                                       |
+| --- | ----------------------------- | ----------------------------------------------------------------- |
+| 1   | **GCD**                       | Find GCD using Euclid’s Algorithm                                 |
+| 2   | **Count primes**              | Count all prime numbers in a given range                          |
+| 3   | **Palindrome number**         | Check whether a number is palindrome (LeetCode 9)                 |
+| 4   | **Reverse integer**           | Reverse digits of an integer (LeetCode 7)                         |
+| 5   | **Reverse string**            | Reverse a string using two-pointer approach (LeetCode 344)        |
+| 6   | **Reverse string 2**          | Reverse a string using built-in reverse function                  |
+| 7   | **Valid palindrome**          | Check if string is palindrome ignoring non-alphanumerics (LC 125) |
+| 8   | **Reverse words in a string** | Reverse words in a string (LeetCode 151)                          |
+| 9   | **String compression**        | Compress string using character counts (LeetCode 443)             |
+| 10  | **Permutation in a string**   | Check if permutation of one string exists in another (LC 567)     |
+| 11  | **Remove all occurrences**    | Remove all occurrences of a substring (LeetCode 1910)             |
+| 12  | **Read and Write in a file**  | File handling: read and write operations                          |
 
 ---
 
@@ -283,5 +354,5 @@ To run the programs in this repository, you need:
 
 ## ⭐ Support
 
-If you find this repository useful: <br />
+If you find this repository useful:
 👉 Star the repo to support the project!
