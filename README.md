@@ -19,8 +19,8 @@ This repository contains a collection of **C++ programs** covering **Object-Orie
 | Category | Total |
 |--------|-------|
 | 🏗 OOP Programs | 22 |
-| 📊 DSA Programs | 156 |
-| 🚀 **Total Programs** | **178** |
+| 📊 DSA Programs | 159 |
+| 🚀 **Total Programs** | **181** |
 
 This repository is continuously expanding as new concepts and problems are added.
 
@@ -326,20 +326,23 @@ This repository is organized into multiple folders, each containing various prog
 
 > General **C++ programs** that don't fit into the above categories.  
 
-| No. | Project                       | Description                                                       |
-| --- | ----------------------------- | ----------------------------------------------------------------- |
-| 1   | **GCD**                       | Find GCD using Euclid’s Algorithm                                 |
-| 2   | **Count primes**              | Count all prime numbers in a given range                          |
-| 3   | **Palindrome number**         | Check whether a number is palindrome (LeetCode 9)                 |
-| 4   | **Reverse integer**           | Reverse digits of an integer (LeetCode 7)                         |
-| 5   | **Reverse string**            | Reverse a string using two-pointer approach (LeetCode 344)        |
-| 6   | **Reverse string 2**          | Reverse a string using built-in reverse function                  |
-| 7   | **Valid palindrome**          | Check if string is palindrome ignoring non-alphanumerics (LC 125) |
-| 8   | **Reverse words in a string** | Reverse words in a string (LeetCode 151)                          |
-| 9   | **String compression**        | Compress string using character counts (LeetCode 443)             |
-| 10  | **Permutation in a string**   | Check if permutation of one string exists in another (LC 567)     |
-| 11  | **Remove all occurrences**    | Remove all occurrences of a substring (LeetCode 1910)             |
-| 12  | **Read and Write in a file**  | File handling: read and write operations                          |
+| No. | Project                      | Description                                                |
+| --- | ---------------------------- | ---------------------------------------------------------- |
+| 1   | **Sum of N numbers**         | Calculate sum of first N natural numbers                   |
+| 2   | **Count digits of a number** | Count total digits in a given number                       |
+| 3   | **GCD**                      | Find GCD using Euclid’s Algorithm                          |
+| 4   | **Is prime or not**          | Check whether a number is prime                            |
+| 5   | **Palindrome number**        | Check whether a number is palindrome (LeetCode 9)          |
+| 6   | **Reverse integer**          | Reverse digits of an integer (LeetCode 7)                  |
+| 7   | **Reverse string**           | Reverse a string using two-pointer approach (LeetCode 344) |
+| 8   | **Reverse string 2**         | Reverse a string using built-in reverse function           |
+| 9   | **Read and Write in a file** | File handling: read and write operations                   |
+| 10  | **Count primes**              | Count all prime numbers in a given range                          |
+| 11  | **Valid palindrome**          | Check if string is palindrome ignoring non-alphanumerics (LC 125) |
+| 12  | **Reverse words in a string** | Reverse words in a string (LeetCode 151)                          |
+| 13  | **String compression**        | Compress string using character counts (LeetCode 443)             |
+| 14  | **Permutation in a string**   | Check if permutation of one string exists in another (LC 567)     |
+| 15  | **Remove all occurrences**    | Remove all occurrences of a substring (LeetCode 1910)             |
 
 ---
 
